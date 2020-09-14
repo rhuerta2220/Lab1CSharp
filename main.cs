@@ -44,7 +44,7 @@ namespace ConsoleApplication1
             // calculate the sum of these two numbers
             sum = n1 + n2+ n3;
             product = n1 * n2 * n3;
-            divide = sum/product;
+            divide = product/sum;
 
 
             // print a message along with the sum of the two numbers
